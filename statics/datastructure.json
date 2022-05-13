@@ -1,0 +1,78 @@
+{
+  "users": {
+    "USERID1": {
+      "name": "Mat",
+      "email": "mmuhammadmms@gmail.com",
+      "online": true,
+      "password": "123456",
+      "gate": "1"
+    },
+    "USERID2": {
+      "name": "abu",
+      "email": "abu@gmail.com",
+      "online": true,
+      "password": "123456",
+      "gate": "2"
+    },
+    "USERID3": {
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "online": true,
+      "password": "123456",
+      "gate": "3"
+    }
+  },
+  "lists": {
+    "LISTID1": {
+      "type": "KONTRAKTOR",
+      "id": "0001",
+      "name": "YB Abu",
+      "position": "KKM",
+      "indate": "16 APRIL,21 APRIL,22 APRIL,23 APRIL,24 APRIL"
+    },
+    "LISTID2": {
+      "type": "PEGAWAI",
+      "id": "0002",
+      "name": "YB Ali",
+      "position": "KKM",
+      "indate": "16 APRIL,23 APRIL,24 APRIL"
+    },
+    "LISTID3": {
+      "type": "KONTRAKTOR",
+      "id": "0003",
+      "name": "YB Siti",
+      "position": "KKM",
+      "indate": "24 APRIL"
+    }
+  },
+  "attendees": {
+    "ATTID1": {
+      "id": "0001",
+      "name": "YB Abu",
+      "position": "KKM",
+      "datetime": "13th May 2022, 3:24:27 pm",
+      "by": "USERID1"
+    },
+    "ATTID2": {
+      "id": "0002",
+      "name": "YB Ali",
+      "position": "KKM",
+      "datetime": "13th May 2022, 3:24:27 pm",
+      "by": "Fv6GObPK0lcJBbRJ2SeeAb2bar53"
+    },
+    "ATTID3": {
+      "id": "0003",
+      "name": "YB Siti",
+      "position": "DUN",
+      "datetime": "13th May 2022, 3:24:27 pm",
+      "by": "Fv6GObPK0lcJBbRJ2SeeAb2bar53"
+    },
+    "ATTID4": {
+      "id": "0004",
+      "name": "YB Ama",
+      "position": "DUN",
+      "datetime": "13th May 2022, 3:24:27 pm",
+      "by": "Fv6GObPK0lcJBbRJ2SeeAb2bar53"
+    }
+  }
+}
